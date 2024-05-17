@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/warspace"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="" scope="COMPILE">
+		<srcroot url="file://$MODULE_DIR$/src"/>
+		<relative-module-src project-related="file://$PROJECT_DIR$/src"/>
+		<relative-module-cls project-related="file://$PROJECT_DIR$"/>
+	</lib>
+</component>
